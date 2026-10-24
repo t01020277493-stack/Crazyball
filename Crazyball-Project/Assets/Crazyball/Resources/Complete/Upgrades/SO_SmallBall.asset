@@ -15,11 +15,11 @@ MonoBehaviour:
   upgradeId: ingame.smallball
   displayName: Small Ball
   description: Shrink the ball to pass narrow gaps.
-  icon: {fileID: 21300000, guid: 6270d46c6c1104b448fb5bac5bede74d, type: 3}
+  icon: {fileID: 21300000, guid: 0e123cfdc54a3ca4684816a34167a566, type: 3}
   category: 0
   effectType: 4
   maxLevel: 3
-  costs: 020000000400000006000000
+  costs: 020000000400000006000000i
   effectValues:
   - 0.85
   - 0.7

@@ -15,11 +15,11 @@ MonoBehaviour:
   upgradeId: ingame.shield
   displayName: Shield
   description: Block the next obstacle hit.
-  icon: {fileID: 21300000, guid: 2f1eaeeaad36ee5469eff7ff158f37ba, type: 3}
+  icon: {fileID: 21300000, guid: 79bfacd7760f18e44b8b8cf773a60a83, type: 3}
   category: 0
   effectType: 1
   maxLevel: 3
-  costs: 030000000500000007000000
+  costs: 030000000500000007000000i
   effectValues:
   - 1
   - 1

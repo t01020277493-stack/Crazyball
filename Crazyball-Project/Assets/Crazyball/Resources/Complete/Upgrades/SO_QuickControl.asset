@@ -15,11 +15,11 @@ MonoBehaviour:
   upgradeId: ingame.responsiveness
   displayName: Quick Control
   description: The ball follows input faster.
-  icon: {fileID: 21300000, guid: 5d9ba4e7d0964044ea54abe409d81dfd, type: 3}
+  icon: {fileID: 21300000, guid: d5a86f9406f27f24f94d52149d58661a, type: 3}
   category: 0
   effectType: 0
   maxLevel: 3
-  costs: 020000000400000006000000
+  costs: 020000000400000006000000i
   effectValues:
   - 0.075
   - 0.05

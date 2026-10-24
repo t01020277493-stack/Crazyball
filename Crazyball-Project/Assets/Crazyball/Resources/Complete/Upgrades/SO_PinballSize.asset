@@ -15,7 +15,7 @@ MonoBehaviour:
   upgradeId: ingame.pinball.size
   displayName: Wide Impact
   description: Increase pinball size and hit coverage.
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: 6da1f31521163e748a9d1c2787407260, type: 3}
   category: 0
   effectType: 9
   maxLevel: 3
