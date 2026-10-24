@@ -19,7 +19,7 @@ MonoBehaviour:
   category: 0
   effectType: 8
   maxLevel: 3
-  costs: 020000000400000006000000
+  costs: 020000000400000006000000i
   effectValues:
   - 13
   - 15
